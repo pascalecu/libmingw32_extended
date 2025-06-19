@@ -1,0 +1,31 @@
+---
+BasedOnStyle: GNU
+AlignConsecutiveDeclarations:
+  PadOperators: true
+AlignOperands: true
+AllowAllArgumentsOnNextLine: false
+AllowAllParametersOfDeclarationOnNextLine: false
+AllowShortBlocksOnASingleLine: false
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: true
+AlwaysBreakAfterDefinitionReturnType: TopLevel
+BinPackArguments: false
+BreakBeforeBinaryOperators: NonAssignment
+BreakBeforeTernaryOperators: false
+ColumnLimit: 0
+ConstructorInitializerIndentWidth: 2
+ContinuationIndentWidth: 0
+IndentCaseLabels: true
+IndentPPDirectives: BeforeHash
+SortIncludes: Never
+SpaceAfterCStyleCast: true
+SpaceAfterTemplateKeyword: false
+SpacesInContainerLiterals: false
+UseTab: Always
+Language: Cpp
+AllowAllConstructorInitializersOnNextLine: false
+AlwaysBreakAfterReturnType: TopLevel
+KeepEmptyLinesAtTheStartOfBlocks: true
+SpaceInEmptyParentheses: false
+SpacesInParentheses: false
