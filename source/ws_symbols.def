@@ -1,0 +1,4 @@
+WS_SYM(htonl, fn_htonl_t)
+WS_SYM(htons, fn_htons_t)
+WS_SYM(ntohl, fn_ntohl_t)
+WS_SYM(ntohs, fn_ntohs_t)
